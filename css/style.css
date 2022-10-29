@@ -1,5 +1,6 @@
 .logo img {
     width: 100px;
+    border-radius: 10px;
 }
 
 a {
@@ -28,7 +29,7 @@ a {
     width: 400px;
     margin-top: 10px;
     border: 1px solid #656665;
-    border-radius: 15px;
+    border-radius: 10px;
 }
 
 .recipe:hover {
